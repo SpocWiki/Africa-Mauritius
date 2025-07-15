@@ -40,11 +40,18 @@ markerFolder: ./Pamplemousses/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Pamplemousses|Pamplemousses]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.public|Pamplemousses.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.internal|Pamplemousses.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.protect|Pamplemousses.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.private|Pamplemousses.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.personal|Pamplemousses.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Pamplemousses.secret|Pamplemousses.secret]] 
+
+### #is_/same_as :: [Pamplemousses](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.md) 
+
+### #is_/same_as :: [Pamplemousses.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.public.md) 
+
+### #is_/same_as :: [Pamplemousses.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.internal.md) 
+
+### #is_/same_as :: [Pamplemousses.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.protect.md) 
+
+### #is_/same_as :: [Pamplemousses.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.private.md) 
+
+### #is_/same_as :: [Pamplemousses.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.personal.md) 
+
+### #is_/same_as :: [Pamplemousses.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.secret.md)
 

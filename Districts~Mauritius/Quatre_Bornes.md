@@ -40,11 +40,18 @@ markerFolder: ./Quatre_Bornes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes|Quatre_Bornes]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.public|Quatre_Bornes.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.internal|Quatre_Bornes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.protect|Quatre_Bornes.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.private|Quatre_Bornes.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.personal|Quatre_Bornes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Quatre_Bornes.secret|Quatre_Bornes.secret]] 
+
+### #is_/same_as :: [Quatre_Bornes](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.md) 
+
+### #is_/same_as :: [Quatre_Bornes.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.public.md) 
+
+### #is_/same_as :: [Quatre_Bornes.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.internal.md) 
+
+### #is_/same_as :: [Quatre_Bornes.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.protect.md) 
+
+### #is_/same_as :: [Quatre_Bornes.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.private.md) 
+
+### #is_/same_as :: [Quatre_Bornes.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.personal.md) 
+
+### #is_/same_as :: [Quatre_Bornes.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.secret.md)
 

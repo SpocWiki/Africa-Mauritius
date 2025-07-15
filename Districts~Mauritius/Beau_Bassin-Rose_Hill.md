@@ -40,11 +40,18 @@ markerFolder: ./Beau_Bassin-Rose_Hill/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill|Beau_Bassin-Rose_Hill]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.public|Beau_Bassin-Rose_Hill.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.internal|Beau_Bassin-Rose_Hill.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.protect|Beau_Bassin-Rose_Hill.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.private|Beau_Bassin-Rose_Hill.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.personal|Beau_Bassin-Rose_Hill.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Beau_Bassin-Rose_Hill.secret|Beau_Bassin-Rose_Hill.secret]] 
+
+### #is_/same_as :: [Beau_Bassin-Rose_Hill](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.md) 
+
+### #is_/same_as :: [Beau_Bassin-Rose_Hill.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.public.md) 
+
+### #is_/same_as :: [Beau_Bassin-Rose_Hill.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.internal.md) 
+
+### #is_/same_as :: [Beau_Bassin-Rose_Hill.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.protect.md) 
+
+### #is_/same_as :: [Beau_Bassin-Rose_Hill.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.private.md) 
+
+### #is_/same_as :: [Beau_Bassin-Rose_Hill.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.personal.md) 
+
+### #is_/same_as :: [Beau_Bassin-Rose_Hill.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.secret.md)
 

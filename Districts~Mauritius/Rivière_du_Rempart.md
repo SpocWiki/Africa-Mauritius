@@ -40,11 +40,18 @@ markerFolder: ./Rivière_du_Rempart/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart|Rivière_du_Rempart]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.public|Rivière_du_Rempart.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.internal|Rivière_du_Rempart.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.protect|Rivière_du_Rempart.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.private|Rivière_du_Rempart.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.personal|Rivière_du_Rempart.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rivière_du_Rempart.secret|Rivière_du_Rempart.secret]] 
+
+### #is_/same_as :: [Rivière_du_Rempart](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.md) 
+
+### #is_/same_as :: [Rivière_du_Rempart.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.public.md) 
+
+### #is_/same_as :: [Rivière_du_Rempart.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.internal.md) 
+
+### #is_/same_as :: [Rivière_du_Rempart.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.protect.md) 
+
+### #is_/same_as :: [Rivière_du_Rempart.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.private.md) 
+
+### #is_/same_as :: [Rivière_du_Rempart.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.personal.md) 
+
+### #is_/same_as :: [Rivière_du_Rempart.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.secret.md)
 

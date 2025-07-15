@@ -40,11 +40,18 @@ markerFolder: ./Curepipe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Curepipe|Curepipe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Curepipe.public|Curepipe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Curepipe.internal|Curepipe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Curepipe.protect|Curepipe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Curepipe.private|Curepipe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Curepipe.personal|Curepipe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Curepipe.secret|Curepipe.secret]] 
+
+### #is_/same_as :: [Curepipe](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.md) 
+
+### #is_/same_as :: [Curepipe.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.public.md) 
+
+### #is_/same_as :: [Curepipe.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.internal.md) 
+
+### #is_/same_as :: [Curepipe.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.protect.md) 
+
+### #is_/same_as :: [Curepipe.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.private.md) 
+
+### #is_/same_as :: [Curepipe.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.personal.md) 
+
+### #is_/same_as :: [Curepipe.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.secret.md)
 

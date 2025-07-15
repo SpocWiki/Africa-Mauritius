@@ -40,11 +40,18 @@ markerFolder: ./Port_Louis_city/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city|Port_Louis_city]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.public|Port_Louis_city.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.internal|Port_Louis_city.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.protect|Port_Louis_city.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.private|Port_Louis_city.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.personal|Port_Louis_city.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Port_Louis_city.secret|Port_Louis_city.secret]] 
+
+### #is_/same_as :: [Port_Louis_city](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis_city.md) 
+
+### #is_/same_as :: [Port_Louis_city.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis_city.public.md) 
+
+### #is_/same_as :: [Port_Louis_city.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis_city.internal.md) 
+
+### #is_/same_as :: [Port_Louis_city.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis_city.protect.md) 
+
+### #is_/same_as :: [Port_Louis_city.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis_city.private.md) 
+
+### #is_/same_as :: [Port_Louis_city.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis_city.personal.md) 
+
+### #is_/same_as :: [Port_Louis_city.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis_city.secret.md)
 

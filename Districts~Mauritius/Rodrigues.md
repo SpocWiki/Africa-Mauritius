@@ -40,11 +40,18 @@ markerFolder: ./Rodrigues/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Rodrigues|Rodrigues]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Rodrigues.public|Rodrigues.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rodrigues.internal|Rodrigues.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rodrigues.protect|Rodrigues.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rodrigues.private|Rodrigues.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rodrigues.personal|Rodrigues.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rodrigues.secret|Rodrigues.secret]] 
+
+### #is_/same_as :: [Rodrigues](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.md) 
+
+### #is_/same_as :: [Rodrigues.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.public.md) 
+
+### #is_/same_as :: [Rodrigues.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.internal.md) 
+
+### #is_/same_as :: [Rodrigues.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.protect.md) 
+
+### #is_/same_as :: [Rodrigues.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.private.md) 
+
+### #is_/same_as :: [Rodrigues.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.personal.md) 
+
+### #is_/same_as :: [Rodrigues.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.secret.md)
 

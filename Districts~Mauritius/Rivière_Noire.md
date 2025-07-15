@@ -40,11 +40,18 @@ markerFolder: ./Rivière_Noire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire|Rivière_Noire]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.public|Rivière_Noire.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.internal|Rivière_Noire.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.protect|Rivière_Noire.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.private|Rivière_Noire.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.personal|Rivière_Noire.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Rivière_Noire.secret|Rivière_Noire.secret]] 
+
+### #is_/same_as :: [Rivière_Noire](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.md) 
+
+### #is_/same_as :: [Rivière_Noire.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.public.md) 
+
+### #is_/same_as :: [Rivière_Noire.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.internal.md) 
+
+### #is_/same_as :: [Rivière_Noire.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.protect.md) 
+
+### #is_/same_as :: [Rivière_Noire.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.private.md) 
+
+### #is_/same_as :: [Rivière_Noire.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.personal.md) 
+
+### #is_/same_as :: [Rivière_Noire.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.secret.md)
 

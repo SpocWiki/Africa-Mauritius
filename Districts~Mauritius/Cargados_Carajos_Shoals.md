@@ -40,11 +40,18 @@ markerFolder: ./Cargados_Carajos_Shoals/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals|Cargados_Carajos_Shoals]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.public|Cargados_Carajos_Shoals.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.internal|Cargados_Carajos_Shoals.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.protect|Cargados_Carajos_Shoals.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.private|Cargados_Carajos_Shoals.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.personal|Cargados_Carajos_Shoals.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Cargados_Carajos_Shoals.secret|Cargados_Carajos_Shoals.secret]] 
+
+### #is_/same_as :: [Cargados_Carajos_Shoals](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Cargados_Carajos_Shoals.md) 
+
+### #is_/same_as :: [Cargados_Carajos_Shoals.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Cargados_Carajos_Shoals.public.md) 
+
+### #is_/same_as :: [Cargados_Carajos_Shoals.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Cargados_Carajos_Shoals.internal.md) 
+
+### #is_/same_as :: [Cargados_Carajos_Shoals.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Cargados_Carajos_Shoals.protect.md) 
+
+### #is_/same_as :: [Cargados_Carajos_Shoals.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Cargados_Carajos_Shoals.private.md) 
+
+### #is_/same_as :: [Cargados_Carajos_Shoals.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Cargados_Carajos_Shoals.personal.md) 
+
+### #is_/same_as :: [Cargados_Carajos_Shoals.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Cargados_Carajos_Shoals.secret.md)
 

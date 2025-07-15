@@ -40,11 +40,18 @@ markerFolder: ./Grand_Port/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Grand_Port|Grand_Port]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Grand_Port.public|Grand_Port.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Grand_Port.internal|Grand_Port.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Grand_Port.protect|Grand_Port.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Grand_Port.private|Grand_Port.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Grand_Port.personal|Grand_Port.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Grand_Port.secret|Grand_Port.secret]] 
+
+### #is_/same_as :: [Grand_Port](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.md) 
+
+### #is_/same_as :: [Grand_Port.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.public.md) 
+
+### #is_/same_as :: [Grand_Port.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.internal.md) 
+
+### #is_/same_as :: [Grand_Port.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.protect.md) 
+
+### #is_/same_as :: [Grand_Port.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.private.md) 
+
+### #is_/same_as :: [Grand_Port.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.personal.md) 
+
+### #is_/same_as :: [Grand_Port.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.secret.md)
 

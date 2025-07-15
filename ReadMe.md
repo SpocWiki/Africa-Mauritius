@@ -133,10 +133,4 @@ Capital :: [[Port_Louis]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Mauritius|Mauritius]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Mauritius.internal|Mauritius.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Mauritius.protect|Mauritius.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Mauritius.private|Mauritius.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Mauritius.personal|Mauritius.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Mauritius.secret|Mauritius.secret]] 
+

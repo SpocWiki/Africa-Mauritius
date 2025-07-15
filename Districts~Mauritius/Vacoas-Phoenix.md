@@ -40,11 +40,18 @@ markerFolder: ./Vacoas-Phoenix/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix|Vacoas-Phoenix]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.public|Vacoas-Phoenix.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.internal|Vacoas-Phoenix.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.protect|Vacoas-Phoenix.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.private|Vacoas-Phoenix.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.personal|Vacoas-Phoenix.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Vacoas-Phoenix.secret|Vacoas-Phoenix.secret]] 
+
+### #is_/same_as :: [Vacoas-Phoenix](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Vacoas-Phoenix.md) 
+
+### #is_/same_as :: [Vacoas-Phoenix.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Vacoas-Phoenix.public.md) 
+
+### #is_/same_as :: [Vacoas-Phoenix.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Vacoas-Phoenix.internal.md) 
+
+### #is_/same_as :: [Vacoas-Phoenix.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Vacoas-Phoenix.protect.md) 
+
+### #is_/same_as :: [Vacoas-Phoenix.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Vacoas-Phoenix.private.md) 
+
+### #is_/same_as :: [Vacoas-Phoenix.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Vacoas-Phoenix.personal.md) 
+
+### #is_/same_as :: [Vacoas-Phoenix.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Vacoas-Phoenix.secret.md)
 

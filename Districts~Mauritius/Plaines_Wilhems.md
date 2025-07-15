@@ -40,11 +40,18 @@ markerFolder: ./Plaines_Wilhems/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems|Plaines_Wilhems]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.public|Plaines_Wilhems.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.internal|Plaines_Wilhems.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.protect|Plaines_Wilhems.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.private|Plaines_Wilhems.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.personal|Plaines_Wilhems.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Plaines_Wilhems.secret|Plaines_Wilhems.secret]] 
+
+### #is_/same_as :: [Plaines_Wilhems](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.md) 
+
+### #is_/same_as :: [Plaines_Wilhems.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.public.md) 
+
+### #is_/same_as :: [Plaines_Wilhems.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.internal.md) 
+
+### #is_/same_as :: [Plaines_Wilhems.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.protect.md) 
+
+### #is_/same_as :: [Plaines_Wilhems.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.private.md) 
+
+### #is_/same_as :: [Plaines_Wilhems.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.personal.md) 
+
+### #is_/same_as :: [Plaines_Wilhems.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.secret.md)
 

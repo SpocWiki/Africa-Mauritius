@@ -40,11 +40,18 @@ markerFolder: ./Moka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Moka|Moka]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Moka.public|Moka.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Moka.internal|Moka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Moka.protect|Moka.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Moka.private|Moka.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Moka.personal|Moka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Moka.secret|Moka.secret]] 
+
+### #is_/same_as :: [Moka](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Moka.md) 
+
+### #is_/same_as :: [Moka.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Moka.public.md) 
+
+### #is_/same_as :: [Moka.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Moka.internal.md) 
+
+### #is_/same_as :: [Moka.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Moka.protect.md) 
+
+### #is_/same_as :: [Moka.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Moka.private.md) 
+
+### #is_/same_as :: [Moka.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Moka.personal.md) 
+
+### #is_/same_as :: [Moka.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Moka.secret.md)
 

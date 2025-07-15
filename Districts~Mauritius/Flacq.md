@@ -40,11 +40,18 @@ markerFolder: ./Flacq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Flacq|Flacq]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Flacq.public|Flacq.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Flacq.internal|Flacq.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Flacq.protect|Flacq.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Flacq.private|Flacq.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Flacq.personal|Flacq.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Flacq.secret|Flacq.secret]] 
+
+### #is_/same_as :: [Flacq](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Flacq.md) 
+
+### #is_/same_as :: [Flacq.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Flacq.public.md) 
+
+### #is_/same_as :: [Flacq.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Flacq.internal.md) 
+
+### #is_/same_as :: [Flacq.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Flacq.protect.md) 
+
+### #is_/same_as :: [Flacq.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Flacq.private.md) 
+
+### #is_/same_as :: [Flacq.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Flacq.personal.md) 
+
+### #is_/same_as :: [Flacq.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Flacq.secret.md)
 

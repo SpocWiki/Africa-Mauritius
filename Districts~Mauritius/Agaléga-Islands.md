@@ -40,11 +40,18 @@ markerFolder: ./Agaléga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Agaléga|Agaléga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Agaléga.public|Agaléga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Agaléga.internal|Agaléga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Agaléga.protect|Agaléga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Agaléga.private|Agaléga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Agaléga.personal|Agaléga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Agaléga.secret|Agaléga.secret]] 
+
+### #is_/same_as :: [Agaléga-Islands](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.md) 
+
+### #is_/same_as :: [Agaléga-Islands.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.public.md) 
+
+### #is_/same_as :: [Agaléga-Islands.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.internal.md) 
+
+### #is_/same_as :: [Agaléga-Islands.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.protect.md) 
+
+### #is_/same_as :: [Agaléga-Islands.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.private.md) 
+
+### #is_/same_as :: [Agaléga-Islands.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.personal.md) 
+
+### #is_/same_as :: [Agaléga-Islands.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.secret.md)
 

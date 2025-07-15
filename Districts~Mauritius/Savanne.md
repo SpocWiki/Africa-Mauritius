@@ -40,11 +40,18 @@ markerFolder: ./Savanne/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Mauritius/Counties/Savanne|Savanne]] 
-- [[../../../../../../_public/geo/Continent/Africa/Mauritius/Counties/Savanne.public|Savanne.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Mauritius/Counties/Savanne.internal|Savanne.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Mauritius/Counties/Savanne.protect|Savanne.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Mauritius/Counties/Savanne.private|Savanne.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Mauritius/Counties/Savanne.personal|Savanne.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Mauritius/Counties/Savanne.secret|Savanne.secret]] 
+
+### #is_/same_as :: [Savanne](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.md) 
+
+### #is_/same_as :: [Savanne.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.public.md) 
+
+### #is_/same_as :: [Savanne.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.internal.md) 
+
+### #is_/same_as :: [Savanne.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.protect.md) 
+
+### #is_/same_as :: [Savanne.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.private.md) 
+
+### #is_/same_as :: [Savanne.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.personal.md) 
+
+### #is_/same_as :: [Savanne.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.secret.md)
 
