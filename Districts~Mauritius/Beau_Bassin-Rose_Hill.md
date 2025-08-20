@@ -1,30 +1,29 @@
 ---
-location: [ -20.23 , 57.47 ] 
+location:
+  - -20.23
+  - 57.47
 type: geo-Region
 title: Beau_Bassin-Rose_Hill
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Beau_Bassin-Rose_Hill
-
+  - Beau_Bassin-Rose_Hill
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Beau_Bassin-Rose_Hill

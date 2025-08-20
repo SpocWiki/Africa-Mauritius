@@ -1,38 +1,39 @@
 ---
 location:
-- -20.1667
-- 57.5167
+  - -20.1667
+  - 57.5167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26971
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Mauritius
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Mauritius
-- Mauricio
-- Maurice
-- موريشيوس
-- 毛里求斯
-- Маврикий
-- the Republic of Mauritius
-- la República de Mauricio
+  - Mauritius
+  - Mauricio
+  - Maurice
+  - موريشيوس
+  - 毛里求斯
+  - Маврикий
+  - the Republic of Mauritius
+  - la República de Mauricio
 Languages:
-- en-MU
-- bho
-- fr
+  - en-MU
+  - bho
+  - fr
 ---
 
 
