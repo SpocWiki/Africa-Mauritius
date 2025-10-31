@@ -1,7 +1,10 @@
 ---
+aliases:
+  - Port_Louis
 location:
   - -20.16
   - 57.53
+has_id_wikidata: Q3929
 type: geo-Region
 title: Port_Louis
 license: CC BY-SA 4.0
@@ -12,8 +15,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Port_Louis
 Languages:
   - de
 cssclasses:
@@ -26,17 +27,38 @@ publishDate:
 expiryDate:
 ---
 
-# Port_Louis
+# [[Port_Louis]]
+
+#is_/same_as :: [[../../../../../../../WikiData/WD~Port_Louis,3929|WD~Port_Louis,3929]]
+
+## #has_/map 
 
 ```leaflet
 id: Port_Louis
 zoomFeatures: true 
 minZoom: 2 
+defaultZoom: 7
 maxZoom: 18
 geojsonFolder: ./Port_Louis/
 markerFolder: ./Port_Louis/
+coordinates: [[Port_Louis]] 
+markerFile: [[Port_Louis]] 
+zoomFeatures: true 
+defaultZoom: 11 
 ```
 
+## #has_/text_of_/abstract 
+
+> Port Louis (French: Port-Louis, [pɔʁ lwi] ; Mauritian Creole: Porlwi, [poːlwi]) 
+> is the capital and most populous city of Mauritius, mainly located in the Port Louis District, 
+> with a small western part in the Black River District. 
+> 
+> Port Louis is the country's financial and political centre. 
+> It is administered by the Municipal City Council of Port Louis. 
+> According to the 2018 census conducted by Statistics Mauritius, the population was 147,066.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Port%20Louis) 
+> 
 
 ## Confidential Links & Embeds: 
 
