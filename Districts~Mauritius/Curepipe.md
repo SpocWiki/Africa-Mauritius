@@ -40,17 +40,17 @@ markerFolder: ./Curepipe/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curepipe](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Curepipe|Curepipe]] 
 
-### #is_/same_as :: [Curepipe.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Curepipe.public|Curepipe.public]] 
 
-### #is_/same_as :: [Curepipe.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Curepipe.internal|Curepipe.internal]] 
 
-### #is_/same_as :: [Curepipe.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Curepipe.protect|Curepipe.protect]] 
 
-### #is_/same_as :: [Curepipe.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Curepipe.private|Curepipe.private]] 
 
-### #is_/same_as :: [Curepipe.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Curepipe.personal|Curepipe.personal]] 
 
-### #is_/same_as :: [Curepipe.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Curepipe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Curepipe.secret|Curepipe.secret]] 
 

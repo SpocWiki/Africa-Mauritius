@@ -40,17 +40,17 @@ markerFolder: ./Quatre_Bornes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quatre_Bornes](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Quatre_Bornes|Quatre_Bornes]] 
 
-### #is_/same_as :: [Quatre_Bornes.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Quatre_Bornes.public|Quatre_Bornes.public]] 
 
-### #is_/same_as :: [Quatre_Bornes.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Quatre_Bornes.internal|Quatre_Bornes.internal]] 
 
-### #is_/same_as :: [Quatre_Bornes.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Quatre_Bornes.protect|Quatre_Bornes.protect]] 
 
-### #is_/same_as :: [Quatre_Bornes.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Quatre_Bornes.private|Quatre_Bornes.private]] 
 
-### #is_/same_as :: [Quatre_Bornes.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Quatre_Bornes.personal|Quatre_Bornes.personal]] 
 
-### #is_/same_as :: [Quatre_Bornes.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Quatre_Bornes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Quatre_Bornes.secret|Quatre_Bornes.secret]] 
 

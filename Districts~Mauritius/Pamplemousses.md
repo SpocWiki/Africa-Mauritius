@@ -40,17 +40,17 @@ markerFolder: ./Pamplemousses/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pamplemousses](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Pamplemousses|Pamplemousses]] 
 
-### #is_/same_as :: [Pamplemousses.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Pamplemousses.public|Pamplemousses.public]] 
 
-### #is_/same_as :: [Pamplemousses.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Pamplemousses.internal|Pamplemousses.internal]] 
 
-### #is_/same_as :: [Pamplemousses.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Pamplemousses.protect|Pamplemousses.protect]] 
 
-### #is_/same_as :: [Pamplemousses.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Pamplemousses.private|Pamplemousses.private]] 
 
-### #is_/same_as :: [Pamplemousses.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Pamplemousses.personal|Pamplemousses.personal]] 
 
-### #is_/same_as :: [Pamplemousses.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Pamplemousses.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Pamplemousses.secret|Pamplemousses.secret]] 
 

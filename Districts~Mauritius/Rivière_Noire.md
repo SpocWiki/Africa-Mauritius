@@ -40,17 +40,17 @@ markerFolder: ./Rivière_Noire/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rivière_Noire](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_Noire|Rivière_Noire]] 
 
-### #is_/same_as :: [Rivière_Noire.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_Noire.public|Rivière_Noire.public]] 
 
-### #is_/same_as :: [Rivière_Noire.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_Noire.internal|Rivière_Noire.internal]] 
 
-### #is_/same_as :: [Rivière_Noire.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_Noire.protect|Rivière_Noire.protect]] 
 
-### #is_/same_as :: [Rivière_Noire.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_Noire.private|Rivière_Noire.private]] 
 
-### #is_/same_as :: [Rivière_Noire.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_Noire.personal|Rivière_Noire.personal]] 
 
-### #is_/same_as :: [Rivière_Noire.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_Noire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_Noire.secret|Rivière_Noire.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Rivière_du_Rempart/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rivière_du_Rempart](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_du_Rempart|Rivière_du_Rempart]] 
 
-### #is_/same_as :: [Rivière_du_Rempart.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_du_Rempart.public|Rivière_du_Rempart.public]] 
 
-### #is_/same_as :: [Rivière_du_Rempart.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_du_Rempart.internal|Rivière_du_Rempart.internal]] 
 
-### #is_/same_as :: [Rivière_du_Rempart.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_du_Rempart.protect|Rivière_du_Rempart.protect]] 
 
-### #is_/same_as :: [Rivière_du_Rempart.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_du_Rempart.private|Rivière_du_Rempart.private]] 
 
-### #is_/same_as :: [Rivière_du_Rempart.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_du_Rempart.personal|Rivière_du_Rempart.personal]] 
 
-### #is_/same_as :: [Rivière_du_Rempart.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rivière_du_Rempart.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rivière_du_Rempart.secret|Rivière_du_Rempart.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Grand_Port/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grand_Port](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Grand_Port|Grand_Port]] 
 
-### #is_/same_as :: [Grand_Port.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Grand_Port.public|Grand_Port.public]] 
 
-### #is_/same_as :: [Grand_Port.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Grand_Port.internal|Grand_Port.internal]] 
 
-### #is_/same_as :: [Grand_Port.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Grand_Port.protect|Grand_Port.protect]] 
 
-### #is_/same_as :: [Grand_Port.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Grand_Port.private|Grand_Port.private]] 
 
-### #is_/same_as :: [Grand_Port.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Grand_Port.personal|Grand_Port.personal]] 
 
-### #is_/same_as :: [Grand_Port.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Grand_Port.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Grand_Port.secret|Grand_Port.secret]] 
 

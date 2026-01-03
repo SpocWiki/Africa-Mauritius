@@ -40,17 +40,17 @@ markerFolder: ./Rodrigues/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rodrigues](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rodrigues|Rodrigues]] 
 
-### #is_/same_as :: [Rodrigues.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rodrigues.public|Rodrigues.public]] 
 
-### #is_/same_as :: [Rodrigues.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rodrigues.internal|Rodrigues.internal]] 
 
-### #is_/same_as :: [Rodrigues.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rodrigues.protect|Rodrigues.protect]] 
 
-### #is_/same_as :: [Rodrigues.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rodrigues.private|Rodrigues.private]] 
 
-### #is_/same_as :: [Rodrigues.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rodrigues.personal|Rodrigues.personal]] 
 
-### #is_/same_as :: [Rodrigues.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Rodrigues.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Rodrigues.secret|Rodrigues.secret]] 
 

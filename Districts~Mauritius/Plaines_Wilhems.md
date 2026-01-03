@@ -40,17 +40,17 @@ markerFolder: ./Plaines_Wilhems/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plaines_Wilhems](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Plaines_Wilhems|Plaines_Wilhems]] 
 
-### #is_/same_as :: [Plaines_Wilhems.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Plaines_Wilhems.public|Plaines_Wilhems.public]] 
 
-### #is_/same_as :: [Plaines_Wilhems.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Plaines_Wilhems.internal|Plaines_Wilhems.internal]] 
 
-### #is_/same_as :: [Plaines_Wilhems.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Plaines_Wilhems.protect|Plaines_Wilhems.protect]] 
 
-### #is_/same_as :: [Plaines_Wilhems.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Plaines_Wilhems.private|Plaines_Wilhems.private]] 
 
-### #is_/same_as :: [Plaines_Wilhems.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Plaines_Wilhems.personal|Plaines_Wilhems.personal]] 
 
-### #is_/same_as :: [Plaines_Wilhems.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Plaines_Wilhems.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Plaines_Wilhems.secret|Plaines_Wilhems.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Agaléga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agaléga-Islands](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Agaléga-Islands|Agaléga-Islands]] 
 
-### #is_/same_as :: [Agaléga-Islands.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Agaléga-Islands.public|Agaléga-Islands.public]] 
 
-### #is_/same_as :: [Agaléga-Islands.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Agaléga-Islands.internal|Agaléga-Islands.internal]] 
 
-### #is_/same_as :: [Agaléga-Islands.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Agaléga-Islands.protect|Agaléga-Islands.protect]] 
 
-### #is_/same_as :: [Agaléga-Islands.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Agaléga-Islands.private|Agaléga-Islands.private]] 
 
-### #is_/same_as :: [Agaléga-Islands.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Agaléga-Islands.personal|Agaléga-Islands.personal]] 
 
-### #is_/same_as :: [Agaléga-Islands.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Agaléga-Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Agaléga-Islands.secret|Agaléga-Islands.secret]] 
 

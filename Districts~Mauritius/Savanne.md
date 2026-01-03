@@ -40,17 +40,17 @@ markerFolder: ./Savanne/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Savanne](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Savanne|Savanne]] 
 
-### #is_/same_as :: [Savanne.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Savanne.public|Savanne.public]] 
 
-### #is_/same_as :: [Savanne.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Savanne.internal|Savanne.internal]] 
 
-### #is_/same_as :: [Savanne.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Savanne.protect|Savanne.protect]] 
 
-### #is_/same_as :: [Savanne.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Savanne.private|Savanne.private]] 
 
-### #is_/same_as :: [Savanne.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Savanne.personal|Savanne.personal]] 
 
-### #is_/same_as :: [Savanne.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Savanne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Savanne.secret|Savanne.secret]] 
 

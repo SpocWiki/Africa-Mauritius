@@ -60,19 +60,20 @@ defaultZoom: 11
 > [Wikipedia](https://en.wikipedia.org/wiki/Port%20Louis) 
 > 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Port_Louis](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Port_Louis|Port_Louis]] 
 
-### #is_/same_as :: [Port_Louis.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Port_Louis.public|Port_Louis.public]] 
 
-### #is_/same_as :: [Port_Louis.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Port_Louis.internal|Port_Louis.internal]] 
 
-### #is_/same_as :: [Port_Louis.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Port_Louis.protect|Port_Louis.protect]] 
 
-### #is_/same_as :: [Port_Louis.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Port_Louis.private|Port_Louis.private]] 
 
-### #is_/same_as :: [Port_Louis.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Port_Louis.personal|Port_Louis.personal]] 
 
-### #is_/same_as :: [Port_Louis.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Port_Louis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Port_Louis.secret|Port_Louis.secret]] 
 

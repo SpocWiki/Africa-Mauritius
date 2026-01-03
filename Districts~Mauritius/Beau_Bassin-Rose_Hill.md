@@ -40,17 +40,17 @@ markerFolder: ./Beau_Bassin-Rose_Hill/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beau_Bassin-Rose_Hill](/_Standards/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill|Beau_Bassin-Rose_Hill]] 
 
-### #is_/same_as :: [Beau_Bassin-Rose_Hill.public](/_public/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.public|Beau_Bassin-Rose_Hill.public]] 
 
-### #is_/same_as :: [Beau_Bassin-Rose_Hill.internal](/_internal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.internal|Beau_Bassin-Rose_Hill.internal]] 
 
-### #is_/same_as :: [Beau_Bassin-Rose_Hill.protect](/_protect/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.protect|Beau_Bassin-Rose_Hill.protect]] 
 
-### #is_/same_as :: [Beau_Bassin-Rose_Hill.private](/_private/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.private|Beau_Bassin-Rose_Hill.private]] 
 
-### #is_/same_as :: [Beau_Bassin-Rose_Hill.personal](/_personal/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.personal|Beau_Bassin-Rose_Hill.personal]] 
 
-### #is_/same_as :: [Beau_Bassin-Rose_Hill.secret](/_secret/Earth/Continent/Africa/Africa~East/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius/Districts~Mauritius/Beau_Bassin-Rose_Hill.secret|Beau_Bassin-Rose_Hill.secret]] 
 
