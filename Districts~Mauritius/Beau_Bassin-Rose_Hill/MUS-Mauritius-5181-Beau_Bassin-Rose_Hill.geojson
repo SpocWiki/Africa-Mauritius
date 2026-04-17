@@ -1,1 +1,2 @@
-﻿{"geometry": {"coordinates": [[[57.49479, -20.24851], [57.45696, -20.25607], [57.45614, -20.24324], [57.45969, -20.21906], [57.48308, -20.21923], [57.49479, -20.24851]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "MUS", "country": "Mauritius", "fill": "#F0F", "id": "5181", "name": "Beau Bassin-Rose Hill"}, "type": "Feature"}
+{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"MUS","country":"Mauritius","fill":"#F0F","id":"5181","name":"Beau Bassin-Rose Hill"},
+"geometry":{"type": "Polygon","coordinates": [[[57.49479,-20.24851,322.2625],[57.48308,-20.21923,232.3431],[57.45969,-20.21906,192.1056],[57.45614,-20.24324,274.86],[57.45696,-20.25607,305.5477],[57.49479,-20.24851,322.2625]]]}}
