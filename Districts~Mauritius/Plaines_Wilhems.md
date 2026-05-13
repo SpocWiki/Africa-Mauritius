@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Plaines_Wilhems/
 markerFolder: ./Plaines_Wilhems/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

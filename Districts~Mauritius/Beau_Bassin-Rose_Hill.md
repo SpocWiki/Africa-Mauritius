@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Beau_Bassin-Rose_Hill/
 markerFolder: ./Beau_Bassin-Rose_Hill/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
